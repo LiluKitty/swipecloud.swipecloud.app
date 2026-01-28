@@ -1,1 +1,1 @@
-# backgroundremover.theapp.biz
+# swipecloud.swipecloud.app
